@@ -20,6 +20,12 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: 'Ooty Carrot',
+      description: 'Carrots from the Ooty hills that have really climbed up the hill',
+      quantity: 1,
+    },
   ],
 };
 
